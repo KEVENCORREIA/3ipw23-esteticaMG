@@ -52,3 +52,27 @@ opacity: 1;
  margin:20px 0;
 
     }
+
+.texto{
+
+width: 47%;
+display: inline-block;
+float: left;
+text-align: justify;
+padding-right: 25px;
+line-height: 30px;
+font-size: 25px;
+
+}
+.sobre h2{
+
+font-weight: 900;
+text-align: center;
+
+}
+.sobre img{
+
+    width: 50%;
+    display: inline-block;
+
+}
