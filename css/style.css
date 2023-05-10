@@ -72,7 +72,33 @@ text-align: center;
 }
 .sobre img{
 
-    width: 50%;
+    width: 38%;
     display: inline-block;
 
+}
+.servicos{
+
+    background: #a2b4a0;
+    padding: 70px;
+    margin: 50px;
+}
+.servico{
+
+display: inline-block;
+
+}
+.servico img{
+
+border: 2px solid #cae485;
+width: 100%;
+
+
+}
+.titulo{
+
+    color: #ebeae1;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-weight: 900;
+    text-align: center;
 }
