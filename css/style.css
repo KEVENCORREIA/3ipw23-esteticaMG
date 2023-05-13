@@ -109,4 +109,34 @@ width: 100%;
 font-size: 40px;
 margin-bottom: 20px;
 }
+.depoimentos h2{
 
+    color: #000;
+
+}
+.item{
+
+display: inline-block;
+width: 33%;
+padding: 1%;
+text-align: justify;
+
+}
+.item img{
+
+width: 100px;
+float: left;
+
+}
+.item .cliente{
+
+    padding-top: 45px;
+    margin-left: 10px;
+
+}
+.item p{
+
+margin-bottom: 20px;
+
+
+}
