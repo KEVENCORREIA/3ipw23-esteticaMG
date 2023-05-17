@@ -117,9 +117,10 @@ margin-bottom: 20px;
 .item{
 
 display: inline-block;
-width: 33%;
+width: 31%;
 padding: 1%;
 text-align: justify;
+font-weight: 900;
 
 }
 .item img{
@@ -137,6 +138,20 @@ float: left;
 .item p{
 
 margin-bottom: 20px;
+
+
+}
+.depoimentos{
+
+    margin: 50px;
+
+
+}
+footer{
+
+background-color: #353333;
+color: #fffdfd;
+padding: 50px;
 
 
 }
