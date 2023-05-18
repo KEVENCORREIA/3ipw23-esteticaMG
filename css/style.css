@@ -127,6 +127,7 @@ font-weight: 900;
 
 width: 100px;
 float: left;
+margin-right: 15px;
 
 }
 .item .cliente{
@@ -138,6 +139,7 @@ float: left;
 .item p{
 
 margin-bottom: 20px;
+line-height:  30px ;
 
 
 }
@@ -153,5 +155,10 @@ background-color: #353333;
 color: #fffdfd;
 padding: 50px;
 
+
+}
+.item h2{
+
+font-size: 40px;
 
 }
