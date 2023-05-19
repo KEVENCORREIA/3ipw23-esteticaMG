@@ -162,3 +162,33 @@ padding: 50px;
 font-size: 40px;
 
 }
+footer input, footer textarea{
+
+width: 250px;
+height: 40px;
+background: none;
+border: none;
+border-bottom: 2px solid #fff;
+font-size: 20px;
+color: #ffff;
+
+}
+footer input[type="submit"]{
+
+border: 2px solid #f5f5f5;
+margin-top: 20px;
+
+}
+footer ul li a {
+
+color: #fff;
+text-decoration: none;
+
+}
+footer ul li{
+
+text-align: center;
+padding: 10px;
+font-size: 20px;
+
+}
