@@ -4,44 +4,49 @@ body{
     background-color: #f5f5f5;
     font-family: 'Exo', sans-serif;
     font-size: 20px;
+  
 }
 .content{
     width: 1200px;
     margin: 0 auto;
+    
 }
 header img,
 header nav{
 
     float: left;
-
+ 
 }
 nav ul li{
 
     display: inline-block;
     padding: 50px;
+ 
+
 }
 .social{
     padding: 40px;
-    floaty: right;
+    float: right;
 }
 
 nav ul li a {
 
-    color: #000;
+    color: #161515;
     text-decoration: none;
 }
 nav ul li a:hover {
 
-    color: #000;
+    color: #2c2929;
     text-decoration: underline;
+    text-align: center;
 }
 
-.hover{
+.hover, a{
 transition: 0.3;
 opacity: 1;
 
 }
-.hover:hover{
+.hover:hover, a:hover{
     transition: 0.3;
     opacity: 0.5;
     
