@@ -46,15 +46,32 @@ transition: 0.3;
 opacity: 1;
 
 }
-.hover:hover, a:hover{
-    transition: 0.3;
-    opacity: 0.5;
+.hover:hover, a:hover{<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>estetica MG</title>
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/style.css">
     
-    }
-.banner img{
- 
- width: 100%;
- margin:20px 0;
+    </head>
+    <body>
+        <header>
+            <img src="img/logo.png">
+    
+            <nav>
+                <div > <meta charset="UTF-8">
+                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>estetica MG</title>
+                    <link rel="stylesheet" href="css/reset.css">
+                    <link rel="stylesheet" href="css/style.css">
+                
+                </head>
+                <body>
+                    <header>
 
     }
 
@@ -101,7 +118,7 @@ width: 100%;
 
 
 }
-.titulo, .serviços h2{
+.titulo, .serviÃ§os h2{
 
     color: #11110f;
     font-size: 30px;
@@ -172,13 +189,18 @@ margin-bottom: 20px;
 footer input, footer textarea{
 
 width: 250px;
-height: 40px;
-background: none;
-border: none;
-border-bottom: 2px solid #fff;
-font-size: 20px;
-color: #ffff;
 
+height: 44px;
+
+background: none;
+
+border: none;
+
+border-bottom: 2px solid #fff;
+
+font-size: 20px;
+
+color: #ffff;
 }
 footer input[type="submit"]{
 
@@ -195,9 +217,10 @@ text-decoration: none;
 footer ul li{
 
 text-align: center;
-padding: 10px ;
-font-size: 20px;
 
+padding: 17px;
+
+font-size: 20px;
 }
 .social ul li a{
 
@@ -209,4 +232,9 @@ color: #f5f2f2;
     background-color: #000000;
     padding: 5px 10px;
     margin: 5px;
+}
+header{
+
+height: 165px;
+
 }
