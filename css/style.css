@@ -46,63 +46,48 @@ transition: 0.3;
 opacity: 1;
 
 }
-.hover:hover, a:hover{<!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>estetica MG</title>
-        <link rel="stylesheet" href="css/reset.css">
-        <link rel="stylesheet" href="css/style.css">
-    
-    </head>
-    <body>
-        <header>
-            <img src="img/logo.png">
-    
-            <nav>
-                <div > <meta charset="UTF-8">
-                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                    <title>estetica MG</title>
-                    <link rel="stylesheet" href="css/reset.css">
-                    <link rel="stylesheet" href="css/style.css">
-                
-                </head>
-                <body>
-                    <header>
+.hover:hover{
+
+transition: 0.3;
+margin: 0.5;
 
     }
 
 .texto{
 
-width: 47%;
-display: inline-block;
-float: left;
-text-align: justify;
-padding-right: 25px;
-line-height: 30px;
-font-size: 25px;
+width: 41%;
 
+display: inline-block;
+
+float: left;
+
+text-align: justify;
+
+padding-right: 25px;
+
+line-height: 30px;
+
+font-size: 25px;
 }
 .sobre h2{
-
 font-weight: 900;
 text-align: center;
-
+font-size: 25px;
 }
+
+
 .sobre img{
 
-    width: 38%;
-    display: inline-block;
-
+padding: 10px; ;
+width: 40%;
+display: inline-block;
 }
 .servicos{
-
+    
     background: #b5b8b48c;
     padding: 70px;
     margin: 50px;
+    margin-top: 50px;
 }
 .servico{
 
@@ -113,14 +98,14 @@ margin: 1%;
 }
 .servico img{
 
-border: 2px solid #cae485;
+border: 2px solid #202020;
 width: 100%;
 
 
 }
-.titulo, .serviÃ§os h2{
+.titulo,.servicos h2{
 
-    color: #11110f;
+    color: #000000;
     font-size: 30px;
     text-transform: uppercase;
     font-weight: 900;
@@ -167,7 +152,7 @@ line-height:  30px ;
 }
 .depoimentos{
 
-    margin: 50px;
+    margin: 70px;
 
 
 }
@@ -237,4 +222,7 @@ header{
 
 height: 165px;
 
+}
+.banner img {
+    width: 100%;
 }
