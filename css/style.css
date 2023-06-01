@@ -78,8 +78,10 @@ font-size: 25px;
 
 .sobre img{
 
-padding: 10px; ;
-width: 40%;
+padding: 10px;
+
+/* width: 40%; */
+
 display: inline-block;
 }
 .servicos{
@@ -147,6 +149,7 @@ margin-right: 15px;
 
 margin-bottom: 20px;
 line-height:  30px ;
+
 
 
 }
@@ -225,4 +228,19 @@ height: 165px;
 }
 .banner img {
     width: 100%;
+}
+.img1 ,.img2{
+
+height: 350px;
+}
+.imgsobre{
+
+text-align: center;
+background: #dfe7df;
+
+}
+.sobre{
+
+text-align: justify;
+
 }
