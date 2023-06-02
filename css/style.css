@@ -236,11 +236,27 @@ height: 350px;
 .imgsobre{
 
 text-align: center;
-background: #dfe7df;
+background: #e4f8e4;
 
 }
 .sobre{
 
 text-align: justify;
+
+}
+.sidebar{
+
+    width: 165px;
+    font-size: 40px;
+    border-left: 5px solid #9df395;
+    line-height: 40px;
+    font-weight: bold;
+    padding: 0 38px;
+
+}
+.info{
+
+    width: 500px;
+    float: ;
 
 }
