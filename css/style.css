@@ -252,11 +252,25 @@ text-align: justify;
     line-height: 40px;
     font-weight: bold;
     padding: 0 38px;
+    float: left;
+    clear: both ;
 
 }
 .info{
 
-    width: 500px;
-    float: ;
+    width: 950px;
+    display: inline-block;
+    text-align: justify;
+
+}
+.bgheader{
+
+/*background-image: url(../img/h1sobre.png)50% -112px/ cover no-repeat fixed;*/
+height:200px;
+margin:20px;
+background-repeat:no-repeat;
+width:100%;
+position:relative;
+
 
 }
