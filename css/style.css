@@ -80,7 +80,7 @@ font-size: 25px;
 
 padding: 10px;
 
-/* width: 40%; */
+width: 40%;
 
 display: inline-block;
 }
@@ -231,12 +231,13 @@ height: 165px;
 }
 .img1 ,.img2{
 
-height: 350px;
+height: 250px;
 }
 .imgsobre{
 
 text-align: center;
 background: #e4f8e4;
+
 
 }
 .sobre{
@@ -271,6 +272,17 @@ margin:20px;
 background-repeat:no-repeat;
 width:100%;
 position:relative;
+
+
+}
+.bgheader{
+
+background-image: url(../img/h1sobre.png);
+background-size: cover;
+background-repeat: no-repeat;
+height: 200px;
+margin: 20px;
+
 
 
 }
