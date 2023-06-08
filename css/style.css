@@ -286,3 +286,7 @@ margin: 20px;
 
 
 }
+.div50{
+    /* float: left; */
+    display: inline-block;
+}
