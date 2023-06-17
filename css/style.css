@@ -73,6 +73,8 @@ font-size: 25px;
 font-weight: 900;
 text-align: center;
 font-size: 25px;
+line-height: 42PX;
+    text-align: left;
 }
 
 
@@ -94,9 +96,10 @@ display: inline-block;
 .servico{
 
 display: inline-block;
-width: 31%;
-margin: 1%;
 
+width: 30%;
+
+margin: 1%;
 }
 .servico img{
 
@@ -299,5 +302,5 @@ ul.div50 li{
 }
 .texto p{
 
-    font-size: 28px;
+    font-size: 24px;
 }
