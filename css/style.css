@@ -304,3 +304,26 @@ ul.div50 li{
 
     font-size: 24px;
 }
+ul.sociais li{
+
+display: inline-block;
+
+}
+ul.sociais li a {
+
+    color: #000;
+
+}
+.contato input{
+
+    width: 100px;
+    max-width: 350px ;
+    font-size: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: #f5f2f2;
+
+}
+
+
