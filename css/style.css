@@ -231,6 +231,7 @@ height: 165px;
 }
 .banner img {
     width: 100%;
+    height: 200px;
 }
 .img1 ,.img2{
 
@@ -277,10 +278,11 @@ width:100%;
 position:relative;
 
 
+
 }
 .bgheader{
-
-background-image: url(../img/contatos.png);
+height: 200px;
+background-image: url(../img/moto1.png);
 background-size: cover;
 background-repeat: no-repeat;
 height: 200px;
